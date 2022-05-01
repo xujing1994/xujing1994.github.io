@@ -1,10 +1,19 @@
-## Welcome to GitHub Pages
+## Xu, Jing (徐璟)
 
 Hello World! I am Jing Xu!
 
 You can use the [editor on GitHub](https://github.com/xujing1994/xujing1994.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### About me
+I received the B.S. degree from the Shanghai University, in 2016, and the M.S. degree from Beihang University, in 2019. I am currently a Ph.D. candidate with the Cybersecurity group, INSY department/TU Delft, The Netherlands. My research interests include the security concern in GNNs, applications of GNNs, and explainable artificial intelligence.
+
+### Publications
+1. **J. Xu***, R. Wang, K. Liang and S. Picek, "More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks", _arXiv preprint_, 2022.[[pdf]](url)
+2. S. Koffas, **J. Xu**, M. Conti and S. Picek, "Can You Hear It? Backdoor Attacks via Ultrasonic Triggers", _The ACM Workshop on Wireless Security and Machine Learning (WiseML)_, 2022.[[pdf]](url)
+3. **J. Xu*** and S. Picek, "Watermarking Graph Neural Networks based on Backdoor Attacks", _arXiv preprint_, 2021.[[pdf]](url)
+4. 
 
 ### Markdown
 
