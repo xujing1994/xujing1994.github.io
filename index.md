@@ -13,7 +13,7 @@ I received the B.S. degree from the Shanghai University, in 2016, and the M.S. d
 1. **J. Xu***, R. Wang, K. Liang and S. Picek, "More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks", _arXiv preprint_, 2022.[[pdf]](url)
 2. S. Koffas, **J. Xu**, M. Conti and S. Picek, "Can You Hear It? Backdoor Attacks via Ultrasonic Triggers", _The ACM Workshop on Wireless Security and Machine Learning (WiseML)_, 2022.[[pdf]](url)
 3. **J. Xu*** and S. Picek, "Watermarking Graph Neural Networks based on Backdoor Attacks", _arXiv preprint_, 2021.[[pdf]](url)
-4. 
+4. **J. Xu***, M. Xue and S. Picek, "Explainability-based backdoor attacks against graph neural networks", _The ACM Workshop on Wireless Security and Machine Learning (WiseML)_, 2021
 
 ### Markdown
 
