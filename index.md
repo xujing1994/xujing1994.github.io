@@ -1,5 +1,3 @@
-![Octocat](files/cv_pic_small.jpg)
-
 Hello! I am Jing Xu! Welcome to my homepage:)
 
 ## About me
