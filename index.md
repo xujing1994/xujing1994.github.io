@@ -15,9 +15,9 @@ I received the B.S. degree from the Shanghai University, in 2016, and the M.S. d
 8. **J. Xu***, G. Yang, Y. Liu and J. Zhong, "Coin Recognition Method Based on SIFT Algorithm", _2017 4th International Conference on Information Science and Control Engineering (ICISCE)_, 2017.[[pdf]](files/Coin_Recognition_Method_Based_on_SIFT_Algorithm.pdf)
 9. J. Zhong*, G. Yang, Y. Liu and **J. Xu**, "Initial alignment of strapdown inertial navigation system with the aid of Doppler velocity log", _2017 4th International Conference on Information Science and Control Engineering (ICISCE)_, 2017.[[pdf]](files/Initial_Alignment_of_Strapdown_Inertial_Navigation_System_with_the_Aid_of_Doppler_Velocity_Log.pdf)
 
-## [Publications](./publications.html)
-## [CV](files/Jing_Xu_CV_Sep_2022.pdf)
-## [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=wif33rcAAAAJ&sortby=pubdate)
-## [ResearchGate](https://www.researchgate.net/profile/Jing-Xu-15)
-## [Linkedin](https://www.linkedin.com/in/jing-xu-aa66871b0/)
+## Other links
+* [CV](files/Jing_Xu_CV_Sep_2022.pdf)
+* [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=wif33rcAAAAJ&sortby=pubdate)
+* [ResearchGate](https://www.researchgate.net/profile/Jing-Xu-15)
+* [Linkedin](https://www.linkedin.com/in/jing-xu-aa66871b0/)
 
