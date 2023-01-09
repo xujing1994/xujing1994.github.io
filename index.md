@@ -2,7 +2,7 @@ Hello! I am Jing Xu! Welcome to my homepage:)
 <img align="right" width="204" height="308" src="files/jingxu_small.jpg">
 
 ## About me
-I received the B.S. degree from the Shanghai University, in 2016, and the M.S. degree from Beihang University, in 2019. I am currently a Ph.D. candidate with the Cybersecurity group, INSY department, TU Delft, The Netherlands. My research interests include the security concern in GNNs, applications of GNNs, and explainable artificial intelligence.
+I am currently a Ph.D. candidate with the Cybersecurity group at Delft University of Technology under the supervision of Dr. Stjepan Picek. My research interests include the security concern in GNNs, applications of GNNs, and explainable artificial intelligence. Before that, I received the B.S. degree from the Shanghai University, in 2016, and the M.S. degree from Beihang University, in 2019.
 
 ## Publications
 1. **J. Xu***, R. Wang, K. Liang and S. Picek, "More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks", _Annual Computer Security Applications Conference (ACSAC)_, 2022.[[pdf]](files/federated_gnns.pdf)
