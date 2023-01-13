@@ -1,21 +1,22 @@
 
 Hello! I am Jing Xu! Welcome to my homepage:)
-        <table class="imgtable">
-          <tr>
-            <td>
-              <img src="files/JingXu.jpg" alt="jingxu.jpg" width="200px" height="333px" />&nbsp;
-            </td>
-            <td align="left">
-              <p>
-                Ph.D. Candidate<br />
-                <a href="https://www.comp.nus.edu.sg/">School of Computing</a><br />
-                <a href="https://www.nus.edu.sg/">National University of Singapore</a><br />
-                Advisor: <a href="https://www.comp.nus.edu.sg/~xiaoxk/">Prof. Xiaokui Xiao</a><br />
-                <br />
-              </p>
-            </td>
-          </tr>
-        </table>
+
+<table class="imgtable">
+  <tr>
+    <td>
+      <img src="https://octodex.github.com/images/bannekat.png" alt="xjphoto_small.jpg" width="200px" height="200px" />&nbsp;
+    </td>
+    <td align="left">
+      <p>
+        Ph.D. Candidate<br />
+        <a href="https://www.comp.nus.edu.sg/">School of Computing</a><br />
+        <a href="https://www.nus.edu.sg/">National University of Singapore</a><br />
+        Advisor: <a href="https://www.comp.nus.edu.sg/~xiaoxk/">Prof. Xiaokui Xiao</a><br />
+        <br />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## About me
 I am currently a fourth-year Ph.D. candidate with the Cybersecurity group at [Delft University of Technology](https://www.tudelft.nl/en/) under the supervision of [Dr. Stjepan Picek](https://www.ru.nl/en/people/picek-s). My research interests include the security concern in GNNs, applications of GNNs, and explainable artificial intelligence. 
