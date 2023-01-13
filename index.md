@@ -2,12 +2,12 @@
 Hello! I am Jing Xu! Welcome to my homepage:)
 
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<table class="imgtable">
+<table class="imgtable" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <img src="files/JingXu.jpg" alt="jingxu.jpg" width="204" height="308" />&nbsp;
     </td>
-    <td align="center">
+    <td align="left">
       <p>
         Ph.D. Candidate<br />
         <a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/cybersecurity">Cybersecurity Group</a><br />
