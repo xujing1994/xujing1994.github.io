@@ -2,7 +2,7 @@ Hello! I am Jing Xu! Welcome to my homepage:)
 <img align="right" width="204" height="308" src="files/jingxu_small.jpg">
 
 ## About me
-I am currently a Ph.D. candidate with the Cybersecurity group at Delft University of Technology under the supervision of Dr. Stjepan Picek. My research interests include the security concern in GNNs, applications of GNNs, and explainable artificial intelligence. Before that, I received the B.S. degree from the Shanghai University, in 2016, and the M.S. degree from Beihang University, in 2019.
+I am currently a Ph.D. candidate with the Cybersecurity group at [Delft University of Technology](https://www.tudelft.nl/en/) under the supervision of [Dr. Stjepan Picek](https://www.ru.nl/en/people/picek-s). My research interests include the security concern in GNNs, applications of GNNs, and explainable artificial intelligence. Before that, I received the B.S. degree from the Shanghai University, in 2016, and the M.S. degree from Beihang University, in 2019.
 
 ## Contact
 Email: j.xu-8 [at] tudelft (dot) nl
