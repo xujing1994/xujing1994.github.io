@@ -2,7 +2,7 @@
 Hello! I am Jing Xu! Welcome to my homepage:)
 
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<table class="imgtable" cellspacing="0" cellpadding="0" align="center">
+<table class="imgtable" align="left">
   <tr>
     <td>
       <img src="files/JingXu.jpg" alt="jingxu.jpg" width="204" height="308" />&nbsp;
