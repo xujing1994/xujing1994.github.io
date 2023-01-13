@@ -1,7 +1,8 @@
 
 Hello! I am Jing Xu! Welcome to my homepage:)
 
-![jingxu](files/jingxu_small.jpg)
+!<img align="right" width="204" height="308" src="files/jingxu_small.jpg">
+
 
 
 ## About me
