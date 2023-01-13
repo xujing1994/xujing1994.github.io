@@ -1,12 +1,13 @@
 
 Hello! I am Jing Xu! Welcome to my homepage:)
 
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
 <table class="imgtable">
   <tr>
     <td>
       <img src="files/JingXu.jpg" alt="jingxu.jpg" width="204" height="308" />&nbsp;
     </td>
-    <td align="left">
+    <td align="center">
       <p>
         Ph.D. Candidate<br />
         <a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/cybersecurity">Cybersecurity Group</a><br />
@@ -21,7 +22,7 @@ Hello! I am Jing Xu! Welcome to my homepage:)
 ## About me
 I am currently a fourth-year Ph.D. candidate with the Cybersecurity group at [Delft University of Technology](https://www.tudelft.nl/en/) under the supervision of [Dr. Stjepan Picek](https://www.ru.nl/en/people/picek-s). My research interests include the security concern in GNNs, applications of GNNs, and explainable artificial intelligence. 
 
-Prior to that, I obtained my master's degree in Optical Engineering from Beihang University (BUAA) in 2019. My master's work was about information fusion based on factor graph. Before joining BUAA, I received my bechelor's degree in Engineering from Shanghai University in 2016. During my bechelor's study, I worked on machine vision and image processing.
+Prior to that, I obtained my master's degree in Optical Engineering from Beihang University (BUAA) in 2019. My master's work was about information fusion based on factor graph. Before joining BUAA, I received my bachelor's degree in Engineering from Shanghai University in 2016. During my bachelor's study, I worked on machine vision and image processing.
 
 ## Contact
 Email: j.xu-8 [at] tudelft (dot) nl
