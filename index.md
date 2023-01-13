@@ -1,6 +1,6 @@
 
 Hello! I am Jing Xu! Welcome to my homepage:)
-<p align="center">
+<p align="left">
   <img width="204" height="308" src="files/JingXu.jpg">
 </p>
 
