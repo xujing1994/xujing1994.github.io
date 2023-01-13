@@ -1,6 +1,8 @@
 
 Hello! I am Jing Xu! Welcome to my homepage:)
-## <img align="right" width="204" height="308" src="files/JingXu.jpg">
+<p align="center">
+  <img width="204" height="308" src="files/JingXu.jpg">
+</p>
 
 ## About me
 I am currently a fourth-year Ph.D. candidate with the Cybersecurity group at [Delft University of Technology](https://www.tudelft.nl/en/) under the supervision of [Dr. Stjepan Picek](https://www.ru.nl/en/people/picek-s). My research interests include the security concern in GNNs, applications of GNNs, and explainable artificial intelligence. 
