@@ -44,7 +44,7 @@ Email: j.xu-8 [at] tudelft (dot) nl
 * Explainable AI
 
 ## Other links
-* [CV](files/Jing_Xu_CV_Sep_2022.pdf)
+* [CV](files/Jing_Xu_CV_Feb_2023.pdf)
 * [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=wif33rcAAAAJ&sortby=pubdate)
 * [ResearchGate](https://www.researchgate.net/profile/Jing-Xu-15)
 * [Linkedin](https://www.linkedin.com/in/jing-xu-aa66871b0/)
