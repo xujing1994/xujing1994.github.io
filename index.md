@@ -49,7 +49,7 @@ I am looking for a postdoc position starting from December 2023.
 * Explainable AI
 
 ## Other links
-* [CV](files/Jing_Xu_CV_Feb_2023.pdf)
+* [CV](https://drive.google.com/file/d/1ITlGsh8AePBe2wFkXfnO0Wqg_oHbrYBw/view?usp=sharing)
 * [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=wif33rcAAAAJ&sortby=pubdate)
 * [ResearchGate](https://www.researchgate.net/profile/Jing-Xu-15)
 * [Linkedin](https://www.linkedin.com/in/jing-xu-aa66871b0/)
