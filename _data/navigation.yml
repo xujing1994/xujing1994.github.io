@@ -22,6 +22,9 @@ main:
     
   - title: "CV"
     url: /JingXu_CV_ml.pdf
+
+  - title: "Misc."
+    url: /misc/
     
   # - title: "Guide"
   #  url: /markdown/
