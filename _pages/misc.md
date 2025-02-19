@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Misc."
+permalink: /misc/
+author_profile: true
+---
+
 Hobby
 ======
 * 7 wonders
