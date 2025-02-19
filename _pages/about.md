@@ -20,3 +20,10 @@ What's New
 * [2024.11] I gave a talk at Hangzhou Dianzi University, Hangzhou, China.
 * [2024.05] I successfully defended my PhD thesis, "Connecting the Dots: Exploring Backdoor Attacks on Graph Neural Networks", on May 13, 2024, at TU Delft.
 * [2023.11] I joined the CISPA as a Postdoc from November 15, 2023. I am so happy to work with Franziska and Adam.
+
+Selected Publications
+======
+* *POST: A Framework for Privacy of Soft-prompt Transfer*. Xun Wang, **Jing Xu**, Franziska Boenisch, Michael Backes, Adam Dziedzic; ICML 2024 Next Generation of AI Safety Workshop, 2024. [[PDF](https://openreview.net/pdf?id=LIaRa0oZSm)]
+* *Watermarking Graph Neural Networks based on Backdoor Attacks*. **Jing Xu**, Stefanos Koffas, Oguzhan Ersoy, Stjepan Picek; Euro S&P 2023. [[arXiv](https://arxiv.org/abs/2110.11024)]
+* *More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks*. **Jing Xu**, Rui Wang, Kaitai Liang, Stjepan Picek; ACSAC 2022. [[arXiv](https://arxiv.org/abs/2202.03195)]
+* *Explainability-based backdoor attacks against graph neural networks*. **Jing Xu**, Minhui(Jason) Xue, Stjepan Picek; WiseML 2021. [[arXiv](https://arxiv.org/abs/2104.03674)]
