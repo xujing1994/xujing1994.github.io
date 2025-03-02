@@ -5,4 +5,4 @@ permalink: /travelmap/
 author_profile: true
 ---
 
-![image info](amCharts.pixelMap.svg)
+![image info](./images/amCharts.pixelMap.svg)
