@@ -27,7 +27,7 @@ main:
     url: /misc/
 
   - title: "Travel Map"
-    url: /amCharts.pixelMap.html
+    url: /amCharts.pixelMap.svg
   
     
   # - title: "Guide"
