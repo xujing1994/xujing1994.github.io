@@ -9,6 +9,8 @@ redirect_from:
 
 I am currently a Postdoc researcher with the [SprintML Lab](https://sprintml.com/) at [CISPA](https://cispa.de/en), working with [Dr. Franziska Boenisch](https://franziska-boenisch.de/) and [Dr. Adam Dziedzic](https://adam-dziedzic.com/). Prior to that, I obtained my PhD degree with the Cybersecurity group at Delft University of Technology under the supervision of [Prof.dr.ir. Inald Lagendijk](https://www.tudelft.nl/staff/r.l.lagendijk/), [Dr. Stjepan Picek](https://www.ru.nl/en/people/picek-s) and [Dr. Frans A. Oliehoek](https://www.fransoliehoek.net/wp/). 
 
+**I am currently on the job market! either in industry or academia**
+
 Research Interests
 ======
 * Security and Privacy of Machine Learning
