@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2025
+### <span style="color:#52ADC8">DP-GPL: Differentially Private Graph Prompt Learning</span>
+**Jing Xu**, Franziska Boenisch, Iyiola Emmanuel Olatunji, Adam Dziedzic; *ICLR 2025 Workshop on Foundation Models in the Wild, 2025* \
+[[PDF](https://openreview.net/pdf?id=W8nrK1ajDH)]
 
 ## 2024
 
