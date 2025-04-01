@@ -9,10 +9,6 @@ author_profile: true
 **Jing Xu**, Franziska Boenisch, Iyiola Emmanuel Olatunji, Adam Dziedzic; *ICLR 2025 Workshop on Foundation Models in the Wild, 2025* \
 [[PDF](https://openreview.net/pdf?id=W8nrK1ajDH)]
 
-### <span style="color:#52ADC8">ADAGE: Active Defenses Against GNN Extraction</span>
-**Jing Xu**, Franziska Boenisch, Adam Dziedzic; *Under review* \
-[[arXiv](https://arxiv.org/pdf/2503.00065)]
-
 ## 2024
 
 ### <span style="color:#52ADC8">POST: A Framework for Privacy of Soft-prompt Transfer</span>
