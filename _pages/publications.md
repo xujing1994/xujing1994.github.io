@@ -5,15 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2025
+### <span style="color:#52ADC8">Efficient and Privacy-Preserving Soft Prompt Transfer for LLMs</span>
+Xun Wang, **Jing Xu**, Franziska Boenisch, Michael Backes, Adam Dziedzic; *ICML, 2025*
+
 ### <span style="color:#52ADC8">DP-GPL: Differentially Private Graph Prompt Learning</span>
 **Jing Xu**, Franziska Boenisch, Iyiola Emmanuel Olatunji, Adam Dziedzic; *ICLR 2025 Workshop on Foundation Models in the Wild, 2025* \
 [[PDF](https://openreview.net/pdf?id=W8nrK1ajDH)]
 
 ## 2024
-
-### <span style="color:#52ADC8">POST: A Framework for Privacy of Soft-prompt Transfer</span>
-Xun Wang, **Jing Xu**, Franziska Boenisch, Michael Backes, Adam Dziedzic; *ICML 2024 Next Generation of AI Safety Workshop, 2024* \
-[[PDF](https://openreview.net/pdf?id=LIaRa0oZSm)]
 
 ### <span style="color:#52ADC8">Tabdoor: Backdoor Vulnerabilities in Transformer-based Neural Networks for Tabular Data</span>
 Bart Pleiter, Behrad Tajalli, Stefanos Koffas, Gorka Abad, **Jing Xu**, Martha Larson, Stjepan Picek \
