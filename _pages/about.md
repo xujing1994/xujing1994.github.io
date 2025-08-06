@@ -19,6 +19,7 @@ Research Interests
 
 What's New
 ======
+* [2025.08] PC/Reviewer of AAAI 2026.
 * [2025.06] PC/Reviewer of CCS-LAMPS 2025.
 * [2025.05] PC/Reviewer of PETS 2026.
 * [2025.05] Our paper titled "Efficient and Privacy-Preserving Soft Prompt Transfer for LLMs" was accepted by ICML 2025!
