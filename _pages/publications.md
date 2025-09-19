@@ -5,12 +5,26 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2025
+### <span style="color:#52ADC8">Finding Memo(rization) in Graph Neural Networks</span>
+Adarsh Jamadandi, **Jing Xu**, Adam Dziedzic, Franziska Boenisch; *NeurIPS, 2025* \
+[[PDF](https://arxiv.org/pdf/2508.19352)]
+
 ### <span style="color:#52ADC8">Efficient and Privacy-Preserving Soft Prompt Transfer for LLMs</span>
-Xun Wang, **Jing Xu**, Franziska Boenisch, Michael Backes, Adam Dziedzic; *ICML, 2025*
+Xun Wang, **Jing Xu**, Franziska Boenisch, Michael Backes, Adam Dziedzic; *ICML, 2025* \
+[[PDF](https://openreview.net/pdf?id=LIaRa0oZSm)]
+
+### <span style="color:#52ADC8">ADAGE: Active Defenses Against GNN Extraction</span>
+**Jing Xu**, Franziska Boenisch, Adam Dziedzic; \
+[[PDF](https://arxiv.org/pdf/2503.00065)]
 
 ### <span style="color:#52ADC8">DP-GPL: Differentially Private Graph Prompt Learning</span>
 **Jing Xu**, Franziska Boenisch, Iyiola Emmanuel Olatunji, Adam Dziedzic; *ICLR 2025 Workshop on Foundation Models in the Wild, 2025* \
 [[PDF](https://openreview.net/pdf?id=W8nrK1ajDH)]
+
+### <span style="color:#52ADC8">Adversarial Attacks and Defenses on Graph-aware Large Language Models (LLMs)</span>
+Iyiola E. Olatunji, Franziska Boenisch, Jing Xu, Adam Dziedzic; \
+[[PDF](https://www.arxiv.org/pdf/2508.04894)]
+
 
 ## 2024
 
