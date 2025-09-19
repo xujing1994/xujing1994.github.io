@@ -32,9 +32,9 @@ What's New
 
 Selected Publications
 ======
-* *Finding Memo(rization) in Graph Neural Networks*. Adarsh Jamadandi*, **Jing Xu**, Adam Dziedzic, Franziska Boenisch; NeurIPS 2025. [[arXiv](https://arxiv.org/abs/2508.19352)]
+* *Finding Memo(rization) in Graph Neural Networks*. Adarsh Jamadandi*, **Jing Xu**, Adam Dziedzic, Franziska Boenisch; NeurIPS 2025. [[arXiv](https://arxiv.org/pdf/2508.19352)]
 * *Efficient and Privacy-Preserving Soft Prompt Transfer for LLMs*. Xun Wang*, **Jing Xu**, Franziska Boenisch, Michael Backes, Adam Dziedzic; ICML 2025. [[PDF](https://openreview.net/pdf?id=LIaRa0oZSm)]
-* *ADAGE: Active Defenses Against GNN Extraction*. **Jing Xu**, Franziska Boenisch, Adam Dziedzic; [[arXiv](https://arxiv.org/abs/2503.00065)]
+* *ADAGE: Active Defenses Against GNN Extraction*. **Jing Xu**, Franziska Boenisch, Adam Dziedzic; [[arXiv](https://arxiv.org/pdf/2503.00065)]
 * *DP-GPL: Differentially Private Graph Prompt Learning*. **Jing Xu**, Franziska Boenisch, Iyiola Emmanuel Olatunji, Adam Dziedzic; ICLR Workshop on Foundation Models in the Wild 2025. [[PDF](https://openreview.net/pdf?id=W8nrK1ajDH)]
 * *Watermarking Graph Neural Networks based on Backdoor Attacks*. **Jing Xu**, Stefanos Koffas, Oguzhan Ersoy, Stjepan Picek; Euro S&P 2023. [[arXiv](https://arxiv.org/abs/2110.11024)]
 * *More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks*. **Jing Xu**, Rui Wang, Kaitai Liang, Stjepan Picek; ACSAC 2022. [[arXiv](https://arxiv.org/abs/2202.03195)]
