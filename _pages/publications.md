@@ -40,7 +40,7 @@ Bart Pleiter, Behrad Tajalli, Stefanos Koffas, Gorka Abad, **Jing Xu**, Martha L
 
 ### <span style="color:#52ADC8">Watermarking Graph Neural Networks based on Backdoor Attacks</span>
 **Jing Xu**, Stefanos Koffas, Oguzhan Ersoy, Stjepan Picek; *Euro S&P 2023* \
-[[arXiv](https://arxiv.org/abs/2110.11024)]
+[[PDF]([https://arxiv.org/abs/2110.11024](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10190545))]
 
 ### <span style="color:#52ADC8">Rethinking the Trigger-injecting Position in Graph Backdoor Attack</span>
 **Jing Xu**, Gorka Abad, Stjepan Picek; *IJCNN 2023* \
