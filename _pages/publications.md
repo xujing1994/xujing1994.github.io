@@ -76,7 +76,7 @@ Stefanos Koffas, Behrad Tajalli, **Jing Xu**, Mauro Conti and Stjepan Picek; *Em
 
 ### <span style="color:#52ADC8">Label-Only Membership Inference Attack against Node-Level Graph Neural Networks</span>
 Mauro Conti, Jiaxin Li, Stjepan Picek, **Jing Xu**; *AISec 2022* \
-[[arXiv](https://arxiv.org/abs/2207.13766)]
+[[PDF](https://dl.acm.org/doi/pdf/10.1145/3560830.3563734)]
 
 ### <span style="color:#52ADC8">Can You Hear It? Backdoor Attacks via Ultrasonic Triggers</span>
 Stefanos Koffas, **Jing Xu**, Mauro Conti, Stjepan Picek; *WiseML 2022* \
