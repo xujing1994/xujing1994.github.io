@@ -15,7 +15,7 @@ Xun Wang, **Jing Xu**, Franziska Boenisch, Michael Backes, Christopher A. Choque
 
 ### <span style="color:#52ADC8">ADAGE: Active Defenses Against GNN Extraction</span>
 **Jing Xu**, Franziska Boenisch, Adam Dziedzic; \
-[[PDF](https://arxiv.org/pdf/2503.00065)]
+[[arXiv](https://arxiv.org/pdf/2503.00065)]
 
 ### <span style="color:#52ADC8">DP-GPL: Differentially Private Graph Prompt Learning</span>
 **Jing Xu**, Franziska Boenisch, Iyiola Emmanuel Olatunji, Adam Dziedzic; *ICLR 2025 Workshop on Foundation Models in the Wild, 2025* \
@@ -23,7 +23,7 @@ Xun Wang, **Jing Xu**, Franziska Boenisch, Michael Backes, Christopher A. Choque
 
 ### <span style="color:#52ADC8">Adversarial Attacks and Defenses on Graph-aware Large Language Models (LLMs)</span>
 Iyiola E. Olatunji, Franziska Boenisch, Jing Xu, Adam Dziedzic; \
-[[PDF](https://www.arxiv.org/pdf/2508.04894)]
+[[arXiv](https://www.arxiv.org/pdf/2508.04894)]
 
 
 ## 2024
