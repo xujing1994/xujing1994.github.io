@@ -90,6 +90,6 @@ Stefanos Koffas, **Jing Xu**, Mauro Conti, Stjepan Picek; *WiseML 2022* \
 
 ### <span style="color:#52ADC8">A multi-sensor information fusion method based on factor graph for integrated navigation system</span>
 **Jing Xu**, Gongliu Yang, Yiding Sun, Stjepan Picek; *IEEE Access 2021* \
-[[PDF](https://pure.tudelft.nl/ws/portalfiles/portal/86836870/09324742.pdf)]
+[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9324742)]
 
 
