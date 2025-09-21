@@ -10,8 +10,8 @@ Adarsh Jamadandi, **Jing Xu**, Adam Dziedzic, Franziska Boenisch; *NeurIPS, 2025
 [[PDF](https://arxiv.org/pdf/2508.19352)]
 
 ### <span style="color:#52ADC8">Efficient and Privacy-Preserving Soft Prompt Transfer for LLMs</span>
-Xun Wang, **Jing Xu**, Franziska Boenisch, Michael Backes, Adam Dziedzic; *ICML, 2025* \
-[[PDF](https://openreview.net/pdf?id=LIaRa0oZSm)]
+Xun Wang, **Jing Xu**, Franziska Boenisch, Michael Backes, Christopher A. Choquette-Choo, Adam Dziedzic; *ICML, 2025* \
+[[PDF](https://openreview.net/pdf?id=WnTGpncrxK)]
 
 ### <span style="color:#52ADC8">ADAGE: Active Defenses Against GNN Extraction</span>
 **Jing Xu**, Franziska Boenisch, Adam Dziedzic; \
