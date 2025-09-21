@@ -40,7 +40,7 @@ Bart Pleiter, Behrad Tajalli, Stefanos Koffas, Gorka Abad, **Jing Xu**, Martha L
 
 ### <span style="color:#52ADC8">Watermarking Graph Neural Networks based on Backdoor Attacks</span>
 **Jing Xu**, Stefanos Koffas, Oguzhan Ersoy, Stjepan Picek; *Euro S&P 2023* \
-[[PDF]([https://arxiv.org/abs/2110.11024](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10190545))]
+[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10190545)]
 
 ### <span style="color:#52ADC8">Rethinking the Trigger-injecting Position in Graph Backdoor Attack</span>
 **Jing Xu**, Gorka Abad, Stjepan Picek; *IJCNN 2023* \
@@ -65,7 +65,7 @@ Stefanos Koffas, Behrad Tajalli, **Jing Xu**, Mauro Conti and Stjepan Picek; *Em
 
 ### <span style="color:#52ADC8">More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks</span>
 **Jing Xu**, Rui Wang, Kaitai Liang, Stjepan Picek; *ACSAC 2022* \
-[[arXiv](https://arxiv.org/abs/2202.03195)]
+[[PDF](https://dl.acm.org/doi/pdf/10.1145/3564625.3567999)]
 
 ### <span style="color:#52ADC8">On Exploring Backdoor Attacks in Federated Graph Neural Networks</span>
 **Jing Xu**, Stefanos Koffas, Stjepan PIcek; *Learning from Authoritative Security Experiment Results (LASER) Workshop, 2022*
