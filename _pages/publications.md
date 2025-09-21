@@ -56,7 +56,7 @@ Gorka Abad, **Jing Xu**, Stefanos Koffas, Behrad Tajalli, Stjepan Picek, Mauro C
 
 ### <span style="color:#52ADC8">Unveiling the Threat: Investigating Distributed and Centralized Backdoor Attacks in Federated Graph Neural Networks</span>
 **Jing Xu**, Stefanos Koffas, Stjepan Picek; *Digital Threats: Research and Practice (DTRAP) 2023* \
-[[PDF](https://pure.tudelft.nl/ws/portalfiles/portal/212867329/3633206.pdf)]
+[[PDF](https://dl.acm.org/doi/pdf/10.1145/3633206)]
 
 ### <span style="color:#52ADC8">A Systematic Evaluation of Backdoor Attacks in Various Domains</span>
 Stefanos Koffas, Behrad Tajalli, **Jing Xu**, Mauro Conti and Stjepan Picek; *Embedded Machine Learning for Cyber-Physical, IoT, and Edge Computing: Use Cases and Emerging Challenges, 2023, pages 519 - 552, 2023*
