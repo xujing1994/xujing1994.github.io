@@ -80,7 +80,7 @@ Mauro Conti, Jiaxin Li, Stjepan Picek, **Jing Xu**; *AISec 2022* \
 
 ### <span style="color:#52ADC8">Can You Hear It? Backdoor Attacks via Ultrasonic Triggers</span>
 Stefanos Koffas, **Jing Xu**, Mauro Conti, Stjepan Picek; *WiseML 2022* \
-[[arXiv](https://arxiv.org/abs/2107.14569)]
+[[PDF](https://dl.acm.org/doi/pdf/10.1145/3522783.3529523)]
 
 ## 2021
 
