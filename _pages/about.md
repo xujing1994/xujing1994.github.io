@@ -24,6 +24,7 @@ What's New
 * [2025.06] PC/Reviewer of CCS-LAMPS 2025.
 * [2025.05] PC/Reviewer of PETS 2026.
 * [2025.05] Our paper titled "Efficient and Privacy-Preserving Soft Prompt Transfer for LLMs" was accepted by ICML 2025!
+* [2024.12] Organizer of IJCNN 2025 Special Session on Trustworthy and Explainable Federated Learning: Towards Security and Privacy Future.
 * [2024.11] I gave a talk at Hangzhou Dianzi University, Hangzhou, China.
 * [2024.05] I successfully defended my PhD thesis, "Connecting the Dots: Exploring Backdoor Attacks on Graph Neural Networks", on May 13, 2024, at TU Delft.
 * [2023.11] I joined the CISPA as a Postdoc from November 15, 2023. I am so happy to work with Franziska and Adam.
