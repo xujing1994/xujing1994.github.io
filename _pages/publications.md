@@ -5,16 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2025
-### <span style="color:#52ADC8">Finding Memo(rization) in Graph Neural Networks</span>
+### <span style="color:#52ADC8">Memorization in Graph Neural Networks</span>
 Adarsh Jamadandi, **Jing Xu**, Adam Dziedzic, Franziska Boenisch; *NeurIPS, 2025* \
-[[PDF](https://arxiv.org/pdf/2508.19352)]
+[[PDF](https://openreview.net/pdf?id=jAJv3CaS4f)]
+
+### <span style="color:#52ADC8">Frequency-Domain Model Fingerprinting for Image Autoregressive Models</span>
+Xun Wang, Vincent Hanke, **Jing Xu**, Michael Backes, Franziska Boenisch, Adam Dziedzic ; *Submitted to AAAI 2026 Workshop AIGOV*
+
+### <span style="color:#52ADC8">Who Owns This Sample: Cross-Client Membership Inference Attack in Federated Graph Neural Networks</span>
+Kunhao Li, Di Wu, Jun Bai, **Jing Xu**, Lei Yang, Ziyi Zhang, Yiliao Song, Wencheng Yang, Taotao Cai, Yan Li ; *Submitted to ICLR, 2026* \
+[[PDF](https://arxiv.org/pdf/2507.19964)]
 
 ### <span style="color:#52ADC8">Efficient and Privacy-Preserving Soft Prompt Transfer for LLMs</span>
 Xun Wang, **Jing Xu**, Franziska Boenisch, Michael Backes, Christopher A. Choquette-Choo, Adam Dziedzic; *ICML, 2025* \
 [[PDF](https://openreview.net/pdf?id=WnTGpncrxK)]
 
 ### <span style="color:#52ADC8">ADAGE: Active Defenses Against GNN Extraction</span>
-**Jing Xu**, Franziska Boenisch, Adam Dziedzic; \
+**Jing Xu**, Franziska Boenisch, Adam Dziedzic; *Under review of AsiaCCS 2026*\
 [[arXiv](https://arxiv.org/pdf/2503.00065)]
 
 ### <span style="color:#52ADC8">DP-GPL: Differentially Private Graph Prompt Learning</span>
@@ -22,13 +29,13 @@ Xun Wang, **Jing Xu**, Franziska Boenisch, Michael Backes, Christopher A. Choque
 [[PDF](https://openreview.net/pdf?id=W8nrK1ajDH)]
 
 ### <span style="color:#52ADC8">Adversarial Attacks and Defenses on Graph-aware Large Language Models (LLMs)</span>
-Iyiola E. Olatunji, Franziska Boenisch, Jing Xu, Adam Dziedzic; \
+Iyiola E. Olatunji, Franziska Boenisch, Jing Xu, Adam Dziedzic; *Submitted to ICLR 2026*\
 [[arXiv](https://www.arxiv.org/pdf/2508.04894)]
 
 
 ## 2024
 
-### <span style="color:#52ADC8">Tabdoor: Backdoor Vulnerabilities in Transformer-based Neural Networks for Tabular Data</span>
+### <span style="color:#52ADC8">Backdoor Attacks on Transformers for Tabular Data: An Empirical Study</span>
 Bart Pleiter, Behrad Tajalli, Stefanos Koffas, Gorka Abad, **Jing Xu**, Martha Larson, Stjepan Picek \
 [[arXiv](https://arxiv.org/abs/2311.07550)]
 
@@ -46,7 +53,7 @@ Bart Pleiter, Behrad Tajalli, Stefanos Koffas, Gorka Abad, **Jing Xu**, Martha L
 **Jing Xu**, Gorka Abad, Stjepan Picek; *IJCNN 2023* \
 [[PDF](https://pure.tudelft.nl/ws/portalfiles/portal/157471643/Rethinking_the_Trigger_injecting_Position_in_Graph_Backdoor_Attack.pdf)]
 
-### <span style="color:#52ADC8">BlindSage: Label Inference Attacks against Node-level Vertical Federated Graph Neural Networks</span>
+### <span style="color:#52ADC8">Label Inference Attacks Against Node-level Vertical Federated GNNs</span>
 Marco Arazzi, Mauro Conti, Stefanos Koffas, Marina Krcek, Antonino Nocera, Stjepan Picek, **Jing Xu** \
 [[arXiv](https://arxiv.org/abs/2308.02465)]
 
