@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2026
+### <span style="color:#52ADC8">Frequency-Domain Model Fingerprinting for Image Autoregressive Models</span>
+Xun Wang*, Vincent Hanke*, **Jing Xu**, Michael Backes, Franziska Boenisch, Adam Dziedzic; *AAAI 2026 Workshop AIGOV, 2026* \
+[[PDF](https://openreview.net/pdf?id=JTRtgy4WDE)]
+
 ## 2025
 ### <span style="color:#52ADC8">Memorization in Graph Neural Networks</span>
 Adarsh Jamadandi, **Jing Xu**, Adam Dziedzic, Franziska Boenisch; *NeurIPS, 2025* \
