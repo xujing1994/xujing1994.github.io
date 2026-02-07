@@ -21,7 +21,7 @@ What's New
 ======
 * [2026.02] I gave a talk in the Natural Language Processing (NLP) group, Aalborg University, Copenhagen, Denmark.
 * [2026.02] Reviewer of Transactions on Dependable and Secure Computing (TDSC).
-* [2026.01] Our paper titled "Frequency-Domain Model Fingerprinting for Image Autoregressive Models" was accepted by AAAI AIGOV workshop 2026!
+* [2026.01] Our paper titled "Frequency-Domain Model Fingerprinting for Image Autoregressive Models" was accepted by AAAI 2026 Workshop AIGOV!
 * [2025.09] Our paper titled "Finding Memo(rization) in Graph Neural Networks" was accepted by NeurIPS 2025!
 * [2025.08] PC/Reviewer of AAAI 2026.
 * [2025.06] PC/Reviewer of CCS-LAMPS 2025.
