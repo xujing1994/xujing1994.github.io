@@ -74,7 +74,7 @@ Stefanos Koffas, Behrad Tajalli, **Jing Xu**, Mauro Conti and Stjepan Picek; *Em
 
 ### <span style="color:#52ADC8">More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks</span>
 **Jing Xu**, Rui Wang, Kaitai Liang, Stjepan Picek; *ACSAC 2022* \
-[[PDF](https://dl.acm.org/doi/pdf/10.1145/3564625.3567999)]
+[[PDF](https://arxiv.org/abs/2202.03195)]
 
 ### <span style="color:#52ADC8">On Exploring Backdoor Attacks in Federated Graph Neural Networks</span>
 **Jing Xu**, Stefanos Koffas, Stjepan PIcek; *Learning from Authoritative Security Experiment Results (LASER) Workshop, 2022*
