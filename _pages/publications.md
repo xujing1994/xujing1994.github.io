@@ -95,7 +95,7 @@ Stefanos Koffas, **Jing Xu**, Mauro Conti, Stjepan Picek; *WiseML 2022* \
 
 ### <span style="color:#52ADC8">Explainability-based backdoor attacks against graph neural networks</span>
 **Jing Xu**, Minhui(Jason) Xue, Stjepan Picek; *WiseML 2021* \
-[[PDF](https://dl.acm.org/doi/pdf/10.1145/3468218.3469046)]
+[[PDF](https://arxiv.org/pdf/2104.03674)]
 
 ### <span style="color:#52ADC8">A multi-sensor information fusion method based on factor graph for integrated navigation system</span>
 **Jing Xu**, Gongliu Yang, Yiding Sun, Stjepan Picek; *IEEE Access 2021* \
