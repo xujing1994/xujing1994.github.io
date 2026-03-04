@@ -4,13 +4,12 @@ layout: archive
 permalink: /services/
 author_profile: true
 ---
-
-The true sign of intelligence is not knowledge but imagination. - Albert Einstein
-
-Hobby
+Services
 ======
-* 7 wonders, Wingspan, Splendor, Ticket-to-ride
-* Zelda (Fantastic!!!)
-* Outdoor activities: Hiking, Tennis
-* Chinese food
-* Travel
+* Organizer:
+  * IJCNN 2025/2026 Special Session on Trustworthy and Explainable Federated Learning: Towards Security and Privacy Future.
+* Conference PC/Reviewer:
+  * PETS 2026, CCS-LAMPS 2025, AAAI 2026, AAAI-AIGOV 2026
+* Journal Reviewer:
+  * TIFS, TOPS, TKDE, TDSC
+
