@@ -14,9 +14,6 @@ Xun Wang*, Vincent Hanke*, **Jing Xu**, Michael Backes, Franziska Boenisch, Adam
 Adarsh Jamadandi, **Jing Xu**, Adam Dziedzic, Franziska Boenisch; *NeurIPS, 2025* \
 [[PDF](https://openreview.net/pdf?id=jAJv3CaS4f)]
 
-### <span style="color:#52ADC8">Frequency-Domain Model Fingerprinting for Image Autoregressive Models</span>
-Xun Wang, Vincent Hanke, **Jing Xu**, Michael Backes, Franziska Boenisch, Adam Dziedzic ; *Submitted to AAAI 2026 Workshop AIGOV*
-
 ### <span style="color:#52ADC8">Who Owns This Sample: Cross-Client Membership Inference Attack in Federated Graph Neural Networks</span>
 Kunhao Li, Di Wu, Jun Bai, **Jing Xu**, Lei Yang, Ziyi Zhang, Yiliao Song, Wencheng Yang, Taotao Cai, Yan Li ; *Submitted to ICLR, 2026* \
 [[PDF](https://arxiv.org/pdf/2507.19964)]
