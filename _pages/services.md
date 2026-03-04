@@ -4,8 +4,6 @@ layout: archive
 permalink: /services/
 author_profile: true
 ---
-Services
-======
 * Organizer:
   * IJCNN 2025/2026 Special Session on Trustworthy and Explainable Federated Learning: Towards Security and Privacy Future.
 * Conference PC/Reviewer:
