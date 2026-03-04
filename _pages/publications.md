@@ -12,7 +12,7 @@ Xun Wang*, Vincent Hanke*, **Jing Xu**, Michael Backes, Franziska Boenisch, Adam
 ## 2025
 ### <span style="color:#52ADC8">Memorization in Graph Neural Networks</span>
 Adarsh Jamadandi, **Jing Xu**, Adam Dziedzic, Franziska Boenisch; *NeurIPS, 2025* \
-[[PDF](https://openreview.net/pdf?id=jAJv3CaS4f)]
+[[PDF](https://arxiv.org/pdf/2508.19352)]
 
 ### <span style="color:#52ADC8">Who Owns This Sample: Cross-Client Membership Inference Attack in Federated Graph Neural Networks</span>
 Kunhao Li, Di Wu, Jun Bai, **Jing Xu**, Lei Yang, Ziyi Zhang, Yiliao Song, Wencheng Yang, Taotao Cai, Yan Li ; *Submitted to ICLR, 2026* \
