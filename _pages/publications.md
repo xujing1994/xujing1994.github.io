@@ -5,8 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2026
+### <span style="color:#52ADC8">ADAGE: Active Defenses Against GNN Extraction</span>
+**Jing Xu**, Franziska Boenisch, Adam Dziedzic; *AsiaCCS 2026*\
+[[arXiv](https://arxiv.org/pdf/2503.00065)]
+
 ### <span style="color:#52ADC8">Frequency-Domain Model Fingerprinting for Image Autoregressive Models</span>
-Xun Wang*, Vincent Hanke*, **Jing Xu**, Michael Backes, Franziska Boenisch, Adam Dziedzic; *AAAI 2026 Workshop AIGOV, 2026* \
+Xun Wang*, Vincent Hanke*, **Jing Xu**, Michael Backes, Franziska Boenisch, Adam Dziedzic; *AAAI 2026 Workshop AIGOV, Oral, 2026* \
 [[PDF](https://openreview.net/pdf?id=JTRtgy4WDE)]
 
 ## 2025
@@ -15,16 +19,12 @@ Adarsh Jamadandi, **Jing Xu**, Adam Dziedzic, Franziska Boenisch; *NeurIPS, 2025
 [[PDF](https://arxiv.org/pdf/2508.19352)]
 
 ### <span style="color:#52ADC8">Who Owns This Sample: Cross-Client Membership Inference Attack in Federated Graph Neural Networks</span>
-Kunhao Li, Di Wu, Jun Bai, **Jing Xu**, Lei Yang, Ziyi Zhang, Yiliao Song, Wencheng Yang, Taotao Cai, Yan Li ; *Submitted to ICLR, 2026* \
+Kunhao Li, Di Wu, Jun Bai, **Jing Xu**, Lei Yang, Ziyi Zhang, Yiliao Song, Wencheng Yang, Taotao Cai, Yan Li ; *Submitted to ICML, 2026* \
 [[PDF](https://arxiv.org/pdf/2507.19964)]
 
 ### <span style="color:#52ADC8">Efficient and Privacy-Preserving Soft Prompt Transfer for LLMs</span>
 Xun Wang, **Jing Xu**, Franziska Boenisch, Michael Backes, Christopher A. Choquette-Choo, Adam Dziedzic; *ICML, 2025* \
 [[PDF](https://openreview.net/pdf?id=WnTGpncrxK)]
-
-### <span style="color:#52ADC8">ADAGE: Active Defenses Against GNN Extraction</span>
-**Jing Xu**, Franziska Boenisch, Adam Dziedzic; *Under review of AsiaCCS 2026*\
-[[arXiv](https://arxiv.org/pdf/2503.00065)]
 
 ### <span style="color:#52ADC8">DP-GPL: Differentially Private Graph Prompt Learning</span>
 **Jing Xu**, Franziska Boenisch, Iyiola Emmanuel Olatunji, Adam Dziedzic; *ICLR 2025 Workshop on Foundation Models in the Wild, 2025* \
