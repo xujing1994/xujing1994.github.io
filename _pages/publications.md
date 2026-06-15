@@ -7,7 +7,7 @@ author_profile: true
 ## 2026
 ### <span style="color:#52ADC8">ADAGE: Active Defenses Against GNN Extraction</span>
 **Jing Xu**, Franziska Boenisch, Adam Dziedzic; *AsiaCCS 2026*\
-[[arXiv](https://arxiv.org/pdf/2503.00065)]
+[[PDF](https://dl.acm.org/doi/pdf/10.1145/3779208.3806086)]
 
 ### <span style="color:#52ADC8">Frequency-Domain Model Fingerprinting for Image Autoregressive Models</span>
 Xun Wang*, Vincent Hanke*, **Jing Xu**, Michael Backes, Franziska Boenisch, Adam Dziedzic; *AAAI 2026 Workshop AIGOV, Oral, 2026* \
