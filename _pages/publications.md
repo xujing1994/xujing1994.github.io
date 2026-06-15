@@ -19,7 +19,7 @@ Adarsh Jamadandi, **Jing Xu**, Adam Dziedzic, Franziska Boenisch; *NeurIPS, 2025
 [[PDF](https://arxiv.org/pdf/2508.19352)]
 
 ### <span style="color:#52ADC8">Who Owns This Sample: Cross-Client Membership Inference Attack in Federated Graph Neural Networks</span>
-Kunhao Li, Di Wu, Jun Bai, **Jing Xu**, Lei Yang, Ziyi Zhang, Yiliao Song, Wencheng Yang, Taotao Cai, Yan Li ; *Submitted to ICML, 2026* \
+Kunhao Li, Di Wu, Jun Bai, **Jing Xu**, Lei Yang, Ziyi Zhang, Yiliao Song, Wencheng Yang, Taotao Cai, Yan Li \
 [[PDF](https://arxiv.org/pdf/2507.19964)]
 
 ### <span style="color:#52ADC8">Efficient and Privacy-Preserving Soft Prompt Transfer for LLMs</span>
@@ -31,14 +31,14 @@ Xun Wang, **Jing Xu**, Franziska Boenisch, Michael Backes, Christopher A. Choque
 [[PDF](https://openreview.net/pdf?id=W8nrK1ajDH)]
 
 ### <span style="color:#52ADC8">Adversarial Attacks and Defenses on Graph-aware Large Language Models (LLMs)</span>
-Iyiola E. Olatunji, Franziska Boenisch, Jing Xu, Adam Dziedzic; *Submitted to ICLR 2026*\
+Iyiola E. Olatunji, Franziska Boenisch, Jing Xu, Adam Dziedzic \
 [[arXiv](https://www.arxiv.org/pdf/2508.04894)]
 
 
 ## 2024
 
 ### <span style="color:#52ADC8">Backdoor Attacks on Transformers for Tabular Data: An Empirical Study</span>
-Bart Pleiter, Behrad Tajalli, Stefanos Koffas, Gorka Abad, **Jing Xu**, Martha Larson, Stjepan Picek \
+Bart Pleiter, Behrad Tajalli, Stefanos Koffas, Gorka Abad, **Jing Xu**, Martha Larson, Stjepan Picek; *Computer Security. ESORICS 2025 International Workshops* \
 [[arXiv](https://arxiv.org/abs/2311.07550)]
 
 ## 2023
