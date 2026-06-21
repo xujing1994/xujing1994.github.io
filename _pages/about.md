@@ -7,15 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Proleptic Lecturer in AI Safety at [Uniersity of York](https://www.york.ac.uk/). My research focuses on **Trustworthy and Privacy-preserving Machine Learning**, particularly around security risks in modern AI systems, e.g., Backdoor Attacks, Membership Inference Attacks, Model Extraction Attacks in Large Language Models, Graph Neural Networks, and Multi-agent Systems. I've mostly worked at the intersection of machine learning and security, with the purpose of making modern AI systems more *Robust, Secure, and Private*.
+I am currently a Proleptic Lecturer in AI Safety at [Uniersity of York](https://www.york.ac.uk/). My research focuses on **Trustworthy and Privacy-preserving Machine Learning**, particularly around security risks in modern AI systems, e.g., Backdoor Attacks, Membership Inference Attacks, Model Extraction Attacks in Large Language Models, Graph Neural Networks, and Multi-Agent Systems. I've mostly worked at the intersection of machine learning and security, with the purpose of making modern AI systems more *Robust, Secure, and Private*.
 
 Before that, I was a Postdoc researcher with the [SprintML Lab](https://sprintml.com/) at [CISPA](https://cispa.de/en), working with [Dr. Franziska Boenisch](https://franziska-boenisch.de/) and [Dr. Adam Dziedzic](https://adam-dziedzic.com/). Prior to that, I obtained my PhD degree with the Cybersecurity group at Delft University of Technology under the supervision of [Prof.dr.ir. Inald Lagendijk](https://www.tudelft.nl/staff/r.l.lagendijk/), [Dr. Stjepan Picek](https://www.ru.nl/en/people/picek-s) and [Dr. Frans A. Oliehoek](https://www.fransoliehoek.net/wp/). 
 
+I am looking for motivated **PhD students** to join my team working on (i) AI security; (ii) multi-agent systems; (iii) graph machine learning. Fully funded PhD positions are available through:
+
+* [UKRI AI Centre for Doctoral Training in Safe Artificial Intelligence Systems (SAINTS)](https://www.saints-cdt.ai/)
+* [China Scholarships Council - University of York PhD Scholarship](https://www.york.ac.uk/study/postgraduate-research/funding/china-council-scholarships/)
+
 Research Interests
 ======
-* Security and Privacy of Machine Learning
-* Large Language Models
-* Graph Neural Networks
+* AI Security (LLM safety/security, adversarial attacks/defense)
+* Graph Machine Learning (graph neural networks, knowledge graph)
+* Multi-Agent Systems
 
 What's New
 ======
