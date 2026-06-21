@@ -11,7 +11,7 @@ I am currently a Proleptic Lecturer in AI Safety at [Uniersity of York](https://
 
 Before that, I was a Postdoc researcher with the [SprintML Lab](https://sprintml.com/) at [CISPA](https://cispa.de/en), working with [Dr. Franziska Boenisch](https://franziska-boenisch.de/) and [Dr. Adam Dziedzic](https://adam-dziedzic.com/). Prior to that, I obtained my PhD degree with the Cybersecurity group at Delft University of Technology under the supervision of [Prof.dr.ir. Inald Lagendijk](https://www.tudelft.nl/staff/r.l.lagendijk/), [Dr. Stjepan Picek](https://www.ru.nl/en/people/picek-s) and [Dr. Frans A. Oliehoek](https://www.fransoliehoek.net/wp/). 
 
-:mega: I am looking for motivated **PhD students** to join my team working on (i) AI security; (ii) multi-agent systems; (iii) graph machine learning. Fully funded PhD positions are available through:
+:bell: I am looking for motivated **PhD students** to join my team working on (i) AI security; (ii) multi-agent systems; (iii) graph machine learning. Fully funded PhD positions are available through:
 
 * [UKRI AI Centre for Doctoral Training in Safe Artificial Intelligence Systems (SAINTS)](https://www.saints-cdt.ai/)
 * [China Scholarships Council - University of York PhD Scholarship](https://www.york.ac.uk/study/postgraduate-research/funding/china-council-scholarships/)
