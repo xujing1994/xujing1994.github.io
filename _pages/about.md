@@ -16,6 +16,11 @@ Before that, I was a Postdoc researcher with the [SprintML Lab](https://sprintml
 * [UKRI AI Centre for Doctoral Training in Safe Artificial Intelligence Systems (SAINTS)](https://www.saints-cdt.ai/)
 * [China Scholarships Council - University of York PhD Scholarship](https://www.york.ac.uk/study/postgraduate-research/funding/china-council-scholarships/)
 
+If you are interested in applying, please send me an email with:
+* CV
+* Transcript with publication list (if available)
+* A brief description of your research interests
+
 Research Interests
 ======
 * AI Security (LLM safety/security, adversarial attacks/defense)
