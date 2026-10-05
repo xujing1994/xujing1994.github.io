@@ -29,6 +29,7 @@ Research Interests
 
 What's New
 ======
+* [2026.09] Attended Dagstuhl Seminar - [Divided We Stand: Security and Privacy of Collaborative Learning](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26401).
 * [2026.04] I joined the University of York as a Proleptic Lecturer in AI Safety!
 * [2026.04] Joined the Program Committee of ESORICS’26.
 * [2026.03] Our paper titled "ADAGE: Active Defenses Against GNN Extraction" was accepted by AsiaCCS 2026!
